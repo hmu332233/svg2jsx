@@ -1,0 +1,15 @@
+{
+  "name": "svg2jsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@balajmarius/svg2jsx": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "minung.han",
+  "license": "MIT"
+}
